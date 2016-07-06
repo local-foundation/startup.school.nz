@@ -18,5 +18,5 @@ git commit -m "$msg"
 # Push source and build repos.
 git pull --rebase
 git push origin master
-git subtree pull --squash --prefix=public git@github.com:local-foundation/startup.school.nz.git gh-pages
-git subtree push --prefix=public git@github.com:local-foundation/startup.school.nz.git gh-pages
+git subtree pull --squash --prefix=public git@github.com:startup-school-nz/startup.school.nz.github.io.git gh-pages
+git subtree push --prefix=public git@github.com:startup-school-nz/startup.school.nz.github.io.git gh-pages
