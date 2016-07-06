@@ -28,3 +28,17 @@ To get the most out of this you should have
 – experience with the lean canvas
 
 Price: $100NZD per team
+
+August
+------
+
+The first workshop in our series of deep dive workshops is around finding the
+right customer segments. We will introduce tools that help you identify new
+segments, get a deeper understanding of “good” vs “bad” segments and how to
+identify suitable early adopter segments for your business.
+
+The workshop will run on the 7th of August, 10 AM at Innovate.  Please mail
+INFO@INNOVATENELSON.COM if you want to be part of this, places are limited so
+make sure you get in soon.
+
+
